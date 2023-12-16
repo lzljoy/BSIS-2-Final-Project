@@ -373,9 +373,8 @@
     background-image: url(../img/farmer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    
     width: 100%;
-    min-height: 100vh;
+    height: 115vh;
     
 }
 
@@ -383,7 +382,7 @@
     background-color: rgba(221, 108, 56, 0.692);
     background-blend-mode: multiply;
     width: 80%;
-    min-height: 100vh;
+    min-height: 110vh;
     margin: 0 auto;
     display: flex;
     align-items: center;
