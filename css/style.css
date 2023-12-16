@@ -374,7 +374,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 115vh;
+    height: 92.3vh;
     
 }
 
@@ -382,7 +382,7 @@
     background-color: rgba(221, 108, 56, 0.692);
     background-blend-mode: multiply;
     width: 80%;
-    min-height: 110vh;
+    height: 90vh;
     margin: 0 auto;
     display: flex;
     align-items: center;
